@@ -1,4 +1,4 @@
-import sortLifes from '../src/js/sortLifes';
+import sortLifes from '../src/sortLifes';
 
 test('sort lifes', () => {
     const inputArray = [
